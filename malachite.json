@@ -1,0 +1,15 @@
+{
+  "datetime": 1794649990,
+  "version": "17",
+  "files": [
+    {
+      "filename": "Shinkai-Project_malachite-heptakaideka-20261114-0954.zip",
+      "os_patch_level": "2026-11-01",
+      "os_sdk_level": 37,
+      "ota_property_files": "payload_metadata.bin:5104:180490,payload.bin:5104:3318054362,payload_properties.txt:3318059524:156,apex_info.pb:2361:1585,care_map.pb:3993:1064,metadata:69:685,metadata.pb:822:1491",
+      "sha256": "79890c674bc0a8428294040fb714eb4f1c4f944e65151a7819deac6d5e688c3c",
+      "size": 3318062919,
+      "url": "https://sourceforge.net/projects/projectlunaris/files/Shinkai/malachite/Shinkai-Project_malachite-heptakaideka-20261114-0954.zip/download"
+    }
+  ]
+}
